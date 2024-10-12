@@ -3,7 +3,7 @@
 
 - 🎓 2nd Year Computer Science student at the University of Cyprus
 - 📚 I’m currently deepening my knowledge in Computer Organization, enhancing my skills in C Programming, and exploring advanced Data Structures and Algorithms using Java.
-- 🔭 I’m currently working on [Student Grading System](https://github.com/tsembp/Student-Grading-System)
+- 🔭 I’m currently working on [Student Grading System](https://github.com/tsembp/Student-Grading-System). My 1st free-time coding project.
 - 🎯 To strengthen my foundational knowledge in computer science and expand my skill set to tackle more complex technical challenges in the future.
 - 📫 How to reach me **panagiotistsembekis45@gmail.com**
 
