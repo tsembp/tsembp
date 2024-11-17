@@ -6,6 +6,7 @@
 - 🎯 My goal it to strengthen my foundational knowledge in computer science and expand my skill set to tackle more complex technical challenges in the future.
 - 📫 How to reach me **panagiotistsembekis45@gmail.com**
 
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -28,6 +29,8 @@
         <img src="https://img.icons8.com/ios-filled/50/ffffff/git.png" alt="Git" width="40" height="40"/> 
     </a>
 </p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
