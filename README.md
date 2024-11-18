@@ -1,5 +1,7 @@
 <img src="./assets/panagiotis-tsembekis-banner.png" alt="Profile Banner"/> 
-<h3 align="center">A passionate and goal-driven Computer Science student</h3>
+<h3 align="center">Passionate and goal-driven Computer Science student</h3>
+
+---
 
 - 🎓 2nd Year Computer Science student at the University of Cyprus
 - 📚 I’m currently deepening my knowledge in Computer Organization, enhancing my skills in C Programming, and exploring advanced Data Structures and Algorithms using Java.
