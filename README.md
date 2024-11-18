@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Panagiotis Tsembekis</h1>
+<img src="./assets/panagiotis-tsembekis-banner.png" alt="Profile Banner"/> 
 <h3 align="center">A passionate and goal-driven Computer Science student</h3>
 
 - 🎓 2nd Year Computer Science student at the University of Cyprus
@@ -35,8 +35,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/panagiotis-tsembekis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panagiotistsembekis" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tsembp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tsembp" height="30" width="40" /></a>
-
---- 
-
-<img src="./assets/panagiotis-tsembekis-banner.png" alt="Profile Banner"/> 
-
