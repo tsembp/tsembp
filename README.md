@@ -23,12 +23,12 @@
     <a href="" target="_blank" rel="noreferrer"> 
         <img src="./assets/csslogo.png" alt="CSS" width="30" height="40"/> 
     </a> 
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
-    </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="./assets/git-logo.png" alt="Git" width="40" height="40"/> 
     </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
+    </a> 
 </p>
 
 ---
