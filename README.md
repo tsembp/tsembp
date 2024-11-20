@@ -1,4 +1,4 @@
-<img src="./assets/panagiotis-tsembekis-banner.png" alt="Profile Banner"/> 
+<img src="./assets/panagiotis-tsembekis-banner.png" alt="Profile Banner" style="border-radius: 10px;/> 
 <h3 align="center">Passionate and goal-driven Computer Science student</h3>
 
 ---
