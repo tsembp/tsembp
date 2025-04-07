@@ -32,12 +32,6 @@ I'm a second-year Computer Science student at the University of Cyprus, passiona
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-tsembekis/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23734BC2.svg?logo=mouse-pointer&logoColor=white)](https://tsembp.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:panagiotistsembekis45@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FF6600.svg?logo=leetcode&logoColor=white)](https://leetcode.com/tsembp)
-
-
-
-
-
-
-
