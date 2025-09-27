@@ -4,34 +4,29 @@
 ---
 
 ## 🙋🏻‍♂️ About Me
-I'm a second-year Computer Science student at the University of Cyprus, passionate about software engineering, cybersecurity and AI.
-
+I'm a penultimate Computer Science student at the University of Cyprus, with an interest about Software Engineering, Quantitative Development and AI.
 
 ## 🚀 What I'm Up to
-- 📚 Focusing on **Theory of Computation**, **Operating Systems**, and **Algorithms and Complexity** to deepen my expertise.
-- 💻 Currently collaborating with a teammate on a side project.
-
+- Currently a Junior Engineer Intern @ Wargaming.
+- 📚 Focusing on **Databases**, **Software Engineering**, and **Networking** at University to deepen my expertise.
+- 💻 Actively participating in development of personal and team projects.
 
 ## 💻 Tech Stack:
 ### Languages & Libraries:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SpringBoot](https://camo.githubusercontent.com/924b1643b42f4aded04442af6a5cbab25c6c25c7570ab924b9d1e1412f536225/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e675f426f6f742d4632463446393f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e672d626f6f74)
-![JavaScript](https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
+![SQL](https://img.shields.io/badge/sql-%230074C1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Developer Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-tsembekis/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23734BC2.svg?logo=mouse-pointer&logoColor=white)](https://tsembp.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:panagiotistsembekis45@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FF6600.svg?logo=leetcode&logoColor=white)](https://leetcode.com/tsembp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-tsembekis/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tsembp.github.io/)
