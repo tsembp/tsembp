@@ -1,4 +1,4 @@
-<img src="./assets/panagiotis-tsembekis-new-banner.png" alt="Profile Banner"/>  
+<img src="./assets/Panagiotis Tsembekis - Banner.png" alt="Profile Banner"/>  
 
 ---
 
