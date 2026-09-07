@@ -6,8 +6,8 @@
 I'm a penultimate-year Computer Science student at the University of Cyprus, with an interest about Software Engineering, Quantitative Development and AI, applying my skills through projects, real-world experience, competitive hackathons, and open-source contributions. 
 
 ## 🚀 What I'm Up to
-🔜 Incoming SWE Intern @ Talos Trading<br>
-↩️ Previously @ Wargaming, CYENS CoE
+🔜 Seeking graduate SWE positions in Trading and Fintech<br>
+↩️ Previously @ Talos, Wargaming, CYENS CoE
 
 ## 💻 Tech Stack:
 ### Languages & Frameworks:
